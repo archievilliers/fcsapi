@@ -1,4 +1,4 @@
-name: fooocus-api
+name: fcsapi
 channels:
   - defaults
 dependencies:
